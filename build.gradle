@@ -5,9 +5,7 @@ repositories {
     mavenLocal()
     jcenter()
 }
-plugins {
-    id "org.sonarqube" version "2.7"
-}
+
 buildscript {
     repositories {
         mavenLocal()
